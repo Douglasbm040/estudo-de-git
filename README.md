@@ -5,3 +5,12 @@
 exercicios :
 
     https://www.w3schools.com/git/exercise.asp?filename=exercise_getstarted1
+
+
+boas praticas no git e github :
+
+    https://daslab-ufes.github.io/github/
+
+<br>
+
+    https://medium.com/boas-pr%C3%A1ticas-para-commits-no-git/boas-pr%C3%A1ticas-de-git-commit-628f3ec088e
